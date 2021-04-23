@@ -1,9 +1,9 @@
-## HabiTranSource ![Icon.png](https://snipboard.io/vQki5Z.jpg)
-This is a project created with the intent of gathering Habitica's technical terms and common **strings** of translation into a collaborative spreadsheet. It also provides a tool that allows for **discussion** 🗨 about the translation of terms. 
+## HabiTranSource ![Icon.png](https://snipboard.io/3cfyWz.jpg)
+Este é um projeto criado com o objetivo de reunir os termos técnicos do Habitica, e **strings** comumente traduzidas, em uma planilha colaborativa. Ele também proporciona uma ferramenta para **discussão** 🗨 sobre a tradução dos termos. 
 
-It works by means of code in **VBA**. To use it, simply download the spreadsheet **(in xlsm format)**, open it, and activate the use of VBA in your 📊 Excel.
+Ele funciona com códigos em **VBA**. Para usar, simplesmente faça o download da planilha **(em formato xlsm)**, abra o arquivo, e ative o uso do VBA no seu 📊 Excel.
 
-In the project's repository are all the VBA **Modules** (in .bas format) programmed for the spreadsheet's buttons and functionality. No installation is required, this is just a way to keep them organized.
+No repositório do projeto estão todos os **Módulos** em VBA (em formato .bas), programados para os botões e funcionalidades da planilha. Nenhuma instalação é necessária, eles estão no repositório apenas para controle e organização.
 
 ![HabiTranSourcePT-BR](https://snipboard.io/lP4kJZ.jpg)
 
